@@ -1,7 +1,7 @@
 Hi there 👋
 
-- 🔭 I’m currently working on android application
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working on web Development
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
